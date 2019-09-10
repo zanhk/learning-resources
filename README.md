@@ -75,7 +75,7 @@ Without further ado here a list of the best resources I started with
 </details>
 
 ## Game Development
-
+<br/>
 <details>
 
 <summary>Unity</summary>
