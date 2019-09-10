@@ -79,7 +79,7 @@ Without further ado here a list of the best resources I started with
 <details>
 
 <summary>Unity</summary>
-<br/>
+
 - [![IT](https://raw.githubusercontent.com/zk-g/my-learning-resources/master/img/italy-flag-round-icon-16.png) Unity 3D Italia [PDF]](http://unity3dtutorials.it/Download/CORSO_COMPLETO_UNITY%2005-2019.pdf)
 
 
