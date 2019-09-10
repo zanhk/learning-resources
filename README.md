@@ -6,7 +6,7 @@ In my experience the more you pay the less you learn.
 
 It may seem contradictory but I bought various courses from [Lynda](https://www.lynda.com/) and [Udemy](https://www.udemy.com/) and while you can find great courses there, the resources I found most useful for my apprenticeship was mostly free. 
 
-Without further ado here a list of the best resources to start with
+Without further ado here a list of the best resources I started with
 - Coding
   - [![IT](https://raw.githubusercontent.com/zk-g/my-learning-resources/master/img/italy-flag-round-icon-16.png) ![YouTube](https://raw.githubusercontent.com/zk-g/my-learning-resources/master/img/icons8-play-button-16.png) FCamuso](https://www.youtube.com/user/fcamuso)
   - [![EN](https://github.com/zk-g/my-learning-resources/blob/master/img/united-states-of-america-flag-round-icon-16.png?raw=true) ![YouTube](https://raw.githubusercontent.com/zk-g/my-learning-resources/master/img/icons8-play-button-16.png) Derek Banas](https://www.youtube.com/user/derekbanas/featured)
@@ -57,5 +57,30 @@ Without further ado here a list of the best resources to start with
 - [![EN](https://github.com/zk-g/my-learning-resources/blob/master/img/united-states-of-america-flag-round-icon-16.png?raw=true) ![YouTube](https://raw.githubusercontent.com/zk-g/my-learning-resources/master/img/icons8-play-button-16.png) Derek Banas](https://www.youtube.com/watch?v=H1elmMBnykA)
 
 - [![IT](https://raw.githubusercontent.com/zk-g/my-learning-resources/master/img/italy-flag-round-icon-16.png) ![YouTube](https://raw.githubusercontent.com/zk-g/my-learning-resources/master/img/icons8-play-button-16.png) FCamuso](https://www.youtube.com/watch?v=0MBpoHEjfG0&list=PL0qAPtx8YtJdbiBCoj4j6x_Ai6Vu9j5r9)
+
+</details>
+
+<br/>
+
+<details>
+
+<summary>Javascript</summary>
+
+- [Stackoverflow (:](https://stackoverflow.com/)
+
+- [![EN](https://github.com/zk-g/my-learning-resources/blob/master/img/united-states-of-america-flag-round-icon-16.png?raw=true) ![YouTube](https://raw.githubusercontent.com/zk-g/my-learning-resources/master/img/icons8-play-button-16.png) Derek Banas](https://youtu.be/fju9ii8YsGs)
+
+- [![IT](https://raw.githubusercontent.com/zk-g/my-learning-resources/master/img/italy-flag-round-icon-16.png) ![YouTube](https://raw.githubusercontent.com/zk-g/my-learning-resources/master/img/icons8-play-button-16.png) FCamuso](https://www.youtube.com/watch?v=dDekOIgzxPA&list=PL0qAPtx8YtJceyk5_NpNvLbbkrmfX9kkw)
+
+</details>
+
+## Game Development
+
+<details>
+
+<summary>Unity</summary>
+
+- [![IT](https://raw.githubusercontent.com/zk-g/my-learning-resources/master/img/italy-flag-round-icon-16.png) Unity 3D Italia [PDF]](http://unity3dtutorials.it/Download/CORSO_COMPLETO_UNITY%2005-2019.pdf)
+
 
 </details>
