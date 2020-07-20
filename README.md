@@ -1,6 +1,6 @@
 # My learning resources
 
-### 📖  My learning journey and the best resources to I used
+### 📖  My learning journey and the best resources that I used
 
 In my experience the more you pay the less you learn.
 
